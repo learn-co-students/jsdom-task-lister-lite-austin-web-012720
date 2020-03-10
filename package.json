@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/js-task-lister-project",
   "devDependencies": {
+    "babel-preset-airbnb": "^4.4.0",
     "learn-browser": "^0.1.12"
   }
 }
