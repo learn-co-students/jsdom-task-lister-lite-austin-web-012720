@@ -1,4 +1,5 @@
-const appendNewTask = task => {
+/* eslint-disable no-undef */
+const appendNewTask = (task) => {
   document.getElementById('tasks').appendChild(task);
 };
 
